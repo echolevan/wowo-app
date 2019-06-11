@@ -8,6 +8,7 @@
     "lf": "vue-cli-service serve --open --mode=lf"
   },
   "dependencies": {
+    "animejs": "^3.0.1",
     "core-js": "^2.6.5",
     "register-service-worker": "^1.6.2"
   },
