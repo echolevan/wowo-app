@@ -13,9 +13,9 @@
     "register-service-worker": "^1.6.2"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.8.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
     "@vue/cli-plugin-pwa": "^3.8.0",
-    "@vue/cli-service": "^3.8.0",
+    "@vue/cli-service": "^5.0.8",
     "style-resources-loader": "^1.2.1",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.2",
